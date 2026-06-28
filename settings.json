@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "scorpionmk8.aternos.me:63725",
+    "ip": "scorpionmk8.aternos.me",
     "port": 63725,
     "version": "",
     "try-creative": false
